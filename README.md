@@ -2,7 +2,7 @@
 # General Info:
 #### Name: *M-Unity*
 #### Age: *15*
-#### Main Specialty: *Games, Apps and Web-Sites development with Unity*
+#### Main Specialty: *Games, Apps and Web Development with Unity*
 #### Subspecialty: *Python, Lua, Bash programming and Web Development*
 # Stats
 ![M-Unity's Stats](https://github-readme-stats.vercel.app/api?username=M-UnityDev&theme=dark&show_icons=true&hide_border=true&count_private=true&icon_color=ff0000&bg_color=320000&text_color=ff0000&title_color=ff0000&border_radius=0&card_width=512&hide=issues)
