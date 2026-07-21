@@ -4,12 +4,9 @@
 #### Birthday: *29.05.2009*
 #### Main Specialty: *Game Development with Godot or Unity*
 #### Subspecialty: *Python, Lua and Bash programming*
-
-
+##### Moving to Codeberg (Even this repository is a mirror from Codeberg :3)
 # Current Projects:
-
 #### Personal Game Projects:
-
 |Game title|Current State|Version|Current Engine|Description|
 |-|-|-|-|-|
 |Tux Flight|Unpublished|0.01|Godot|Casual game where you're playing as Tux who flies across the level|
@@ -25,9 +22,7 @@
 |*M-Unity's Adventures*|*Unsupported*|0.2|Unity| |
 |*6 Days at GameMechanics*|*Unsupported*|0.9|Unity| |
 |*UnityPDF*|*Unsupported*|0.2|Unity| 
-
 #### Team Game Projects:
-
 |Game title|Authors|Current State|Version|Current Engine|Description|
 |-|-|-|-|-|-|
 |Furries Underground|M-Unity GameDev & Nightmare's Things|Published Demo|1.0| Unity(Move to Godot) | Visual novel that has the style of games of the 90s. The game currently has three full-fledged lines of passage. Everything depends on your choices.|
@@ -35,9 +30,7 @@
 |Tyumen Ride|M-Unity GameDev & running cactus.|Unpublished|1.0|Unity| |
 |Arduino Office|M-Unity GameDev & running cactus.|Unpublished|0.67|Unity||
 |Arduino Island|M-Unity GameDev & running cactus.|Unpublished|1.0|Unity| |
-
 #### States:
-
 - Published - Finished game that will receive updates
 - Published Demo - A demo of unfinished game that is in (almost) active development
 - Unpublished - Unfinished game that is in (almost) active development
