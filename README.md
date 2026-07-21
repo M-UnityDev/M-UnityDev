@@ -1,4 +1,4 @@
-![Banner AnimB](d.svg)
+![Logo](logo.svg)
 # General Info:
 #### Name: *M-Unity*
 #### Birthday: *29.05.2009*
