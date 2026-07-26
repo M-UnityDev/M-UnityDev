@@ -12,7 +12,7 @@
 |Tux Flight|Unpublished|0.01|Godot|Casual game where you're playing as Tux who flies across the level|
 |2TheFront|Published|0.9|Unity(Move to Godot)|2d 2nd person platformer game that shows its genre from a different angle!|
 |Space Hexagons|Published|1.25|Unity|Fun game where you play as a planet and have to avoid hexagons that want to destroy you and earn money to buy planets. There are many gamemodes: Classic mode, ~~One Button Mode~~, Free Move mode, Custom shape and ~~C̷̔̏̎u̵̅͜rs̸͇̞̦̑̆̍e̴d̴͒~~ Mode. Also there are 8 planets for choice.|
-|Cubes & Buttons|Published Demo|0.69.9|Unity|Puzzle Game about cubes & buttons, in which you need to complete test chambers using CARL invention such as CUBE, Clipping field and more!|
+|Cubes & Buttons|Published Demo|0.69.9|Unity|Puzzle game about cubes & buttons, in which you need to complete test chambers using CARL invention such as CUBE, Clipping field and more!|
 |M-Unity's Cubinsanity|Unpublished|1.1002|Godot| |
 |Horror "My Abandoned Project"|Unpublished|0.001|Unity| |
 |Maxwell Cat Clicker|Unpublished|0.5|Unity| |
