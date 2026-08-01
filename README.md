@@ -23,7 +23,7 @@
 |Space Hexagons|Published|1.25|Unity|Fun game where you play as a planet and have to avoid hexagons that want to destroy you and earn money to buy planets. There are many gamemodes: Classic mode, ~~One Button Mode~~, Free Move mode, Custom shape and ~~C̷̔̏̎u̵̅͜rs̸͇̞̦̑̆̍e̴d̴͒~~ Mode. Also there are 8 planets for choice.|
 |Cubes & Buttons|Published Demo|0.69.9|Unity|Puzzle game about cubes & buttons, in which you need to complete test chambers using CARL invention such as CUBE, Clipping field and more!|
 |M-Unity's Cubinsanity|Unpublished|1.1002|Godot| |
-|"My Abandoned Project"|Unpublished|0.001|Unity|abandoned horror.|
+|My Abandoned Project|Unpublished|0.001|Unity|abandoned horror.|
 |Maxwell Cat Clicker|Unpublished|0.5|Unity| |
 |OpenDash3D|Unpublished|0.1|Godot| |
 |Yet Another Clicker|Unpublished|0.1|Unity| |
