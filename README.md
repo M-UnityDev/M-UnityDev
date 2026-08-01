@@ -19,9 +19,6 @@
 |OpenDash3D|Unpublished|0.1|Godot| |
 |Yet Another Clicker|Unpublished|0.1|Unity| |
 |Time Jumper|Unpublished|0.9|Unity||
-|*M-Unity's Adventures*|*Unsupported*|0.2|Unity| |
-|*6 Days at GameMechanics*|*Unsupported*|0.9|Unity| |
-|*UnityPDF*|*Unsupported*|0.2|Unity| 
 #### Team Game Projects:
 |Game title|Authors|Current State|Version|Current Engine|Description|
 |-|-|-|-|-|-|
