@@ -19,6 +19,7 @@
 |Game title|Current State|Version|Current Engine|Description|
 |-|-|-|-|-|
 |Tux Flight|Unpublished|0.01|Godot|Casual game where you're playing as Tux who flies across the level|
+|Tiny Space Hex|Unpublished|0.4|Godot|Tiny version of Space Hexagons|
 |2TheFront|Published|0.9|Unity(Move to Godot)|2D 2nd person platformer game that shows its genre from a different angle!|
 |Space Hexagons|Published|1.25|Unity|Fun game where you play as a planet and have to avoid hexagons that want to destroy you and earn money to buy planets. There are many gamemodes: Classic mode, ~~One Button Mode~~, Free Move mode, Custom shape and ~~C̷̔̏̎u̵̅͜rs̸͇̞̦̑̆̍e̴d̴͒~~ Mode. Also there are 8 planets for choice.|
 |Cubes & Buttons|Published Demo|0.69.9|Unity|Puzzle game about cubes & buttons, in which you need to complete test chambers using CARL invention such as CUBE, Clipping field and more!|
@@ -26,7 +27,7 @@
 |My Abandoned Project|Unpublished|0.001|Unity|abandoned horror.|
 |Maxwell Cat Clicker|Unpublished|0.5|Unity| |
 |OpenDash3D|Unpublished|0.1|Godot| |
-|Yet Another Clicker|Unpublished|0.1|Unity| |
+|Yet Another Clicker|Unpublished|0.1|Unity|Horror clicker|
 |Time Jumper|Unpublished|0.9|Unity||
 #### Team Game Projects:
 |Game title|Authors|Current State|Version|Current Engine|Description|
